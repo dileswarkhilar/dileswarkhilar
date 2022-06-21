@@ -36,21 +36,20 @@
 
 
 ### Tech Stack
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
-<img align="left" alt="vscode" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>
-<img align="left" alt="vscode" width="22px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
-<img align="left" alt="vscode" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
-<img align="left" alt="vscode" width="22px" src="https://img.icons8.com/color/344/flutter.png"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/>
-<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"/>
+<img align="left" alt="c" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
+<img align="left" alt="python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+<img align="left" alt="html" width="22px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
+<img align="left" alt="css" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
+<img align="left" alt="sass" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
+<img align="left" alt="bootstrap" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
+<img align="left" alt="tailwindcss" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
+<img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
+<img align="left" alt="reactjs" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
+<img align="left" alt="nodejs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"/>
+<img align="left" alt="expressjs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"/>
+<img align="left" alt="mongodb" width="22px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
+<img align="left" alt="flutter" width="22px" src="https://img.icons8.com/color/344/flutter.png"/>
+<img align="left" alt="kotlin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/>
 
 
 
