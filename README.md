@@ -11,29 +11,47 @@
 - 📫 How to reach me **dileswarkhilar0@gmail.com**
 
 
-## Tech Stack
 
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> </p>
-
-## 🔗 Social Handle
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://dileswarkhilar1.github.io/Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=916370132020&text&app_absent=0)
-
-
-
-
-  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileswarkhilar1&show_icons=true&locale=en&layout=compact" alt="dileswarkhilar1" /></p>
+### Tools
+<img align="left" alt="vscode" width="22px" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
+<img align="left" alt="git" width="22px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"/>
+<img align="left" alt="git" width="22px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png"/>
+<img align="left" alt="git" width="22px" src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg"/>
+</br>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dileswarkhilar1&show_icons=true&locale=en" alt="dileswarkhilar1" /></p>
+### Tech Stack
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
+<img align="left" alt="vscode" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>
+<img align="left" alt="vscode" width="22px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
+<img align="left" alt="vscode" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
+<img align="left" alt="vscode" width="22px" src="https://img.icons8.com/color/344/flutter.png"/>
+<img align="left" alt="vscode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dileswarkhilar1&" alt="dileswarkhilar1" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
