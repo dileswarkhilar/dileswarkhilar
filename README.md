@@ -10,8 +10,20 @@
 
 - 📫 How to reach me **dileswarkhilar0@gmail.com**
 
+</br>
 
+### Connect with me:
 
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<a/>
+
+<a><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+
+<a><img align="left" alt="facebooks | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+
+<a><img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+</br>
 
 ### Tools
 <img align="left" alt="vscode" width="22px" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
