@@ -34,11 +34,9 @@
 <img align="left" alt="python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 <img align="left" alt="html" width="22px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
 <img align="left" alt="css" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-<img align="left" alt="sass" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
 <img align="left" alt="bootstrap" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
 <img align="left" alt="tailwindcss" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
 <img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
-<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"/>
 <img align="left" alt="reactjs" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
 <img align="left" alt="nodejs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"/>
 <img align="left" alt="expressjs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"/>
