@@ -41,15 +41,7 @@
 <img align="left" alt="nodejs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"/>
 <img align="left" alt="expressjs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"/>
 <img align="left" alt="mongodb" width="22px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
-<img align="left" alt="flutter" width="22px" src="https://img.icons8.com/color/344/flutter.png"/>
-<img align="left" alt="kotlin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/>
 </br>
 
-### Profile Status
-
-<a align="left" href="http://www.github.com/dileswarkhilar"><img src="https://github-readme-stats.vercel.app/api?username=dileswarkhilar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dileswarkhilar's GitHub stats" /></a>
-
-
-<a href="http://www.github.com/dileswarkhilar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dileswarkhilar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/dileswarkhilar"><img src="https://activity-graph.herokuapp.com/graph?username=dileswarkhilar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
