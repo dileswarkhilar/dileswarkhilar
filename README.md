@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Dileswar Khilar</h1>
-<h3 align="center">Computer Science and Technology Enthusiast</h3>
+<h3 align="center">Fullstack Software Developer | Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileswarkhilar1&label=Profile%20views&color=0e75b6&style=flat" alt="dileswarkhilar1" /> </p>
 
-- 👨🏽‍💻 I’m currently learning **and growing my skillset in Competitive Programming, Data Structures and Algorithms.**
+- 👨🏽‍💻 I’m currently working, Learning**and growing my skillset in Competitive Programming, Data Structures and Algorithms, Web 3.0 Develoment**
+
+- 👨🏽‍💻 I am passionate about technology and have a keen interest in learning new technologies, my primary objective is to develop quality programs that gives a practical view to my thoughts.
 
 - 🤝 I’m looking to collaborate on **opensource project**
 
@@ -42,4 +44,9 @@
 <img align="left" alt="expressjs" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"/>
 <img align="left" alt="mongodb" width="22px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
 </br>
+</br>
+</br>
+
+<a href="http://www.github.com/dileswarkhilar"><img src="https://activity-graph.herokuapp.com/graph?username=dileswarkhilar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
