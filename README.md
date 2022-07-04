@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dileswar Khilar</h1>
-<h3 align="center">Fullstack Software Developer | Geek</h3>
+<h3 align="center">Fullstack Web Developer | JavaScript Enthusiast | Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileswarkhilar1&label=Profile%20views&color=0e75b6&style=flat" alt="dileswarkhilar1" /> </p>
 
