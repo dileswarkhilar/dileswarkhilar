@@ -13,69 +13,68 @@
 - 📫 How to reach me **dileswarkhilar0@gmail.com**
 </br>
 
-### Connect with me:
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+
+
+### Connect with me!
+
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/github.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="stackoverflow | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="stackoverflow | Stackoverflow" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/stackoverflow.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://raw.githubusercontent.com/dileswarkhilar/dileswarkhilar/4f5b3519aa1644ebfb37f26caaa601fdfdcc16b1/images/LinkedIn.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="linkedin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/dileswarkhilar/dileswarkhilar/4f5b3519aa1644ebfb37f26caaa601fdfdcc16b1/images/LinkedIn.svg" />
 <a/>
 
-<a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/twitter.svg" />
+</a>
 
-<a ><img align="left" alt="facebooks | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a ><img align="left" alt="facebook | Facebook" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/facebook.svg" />
+</a>
 
-<a href="https://www.instagram.com/dileswarkhilar/" target="_blank" rel="noreferrer"><img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.instagram.com/dileswarkhilar/" target="_blank" rel="noreferrer"><img align="left" alt="instagram | Instagram" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/instagram.svg" />
+</a>
+
 </br>
+
 
 ### Coding Profile
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="hackerearth | Hackerearth" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/hackerearth.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="hackerearth | Hackerearth" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/hackerearth.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="hackerrank | Hackerrank" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/hackerrank.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="hackerrank | Hackerrank" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/hackerrank.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="leetcode | Leetcode" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/leetcode.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="leetcode | Leetcode" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/leetcode.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/geeksforgeeks.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="geeksforgeeks | GeeksforGeeks" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/geeksforgeeks.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codechef | Codechef" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codechef.svg" />
-<a/>
-
-
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codeforces | Codeforces" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codeforces.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codechef | Codechef" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codechef.svg" />
 <a/>
 
 
-
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codeforces | Codeforces" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codeforces.svg" />
+<a/>
 
 </br>
 
-
-
 ### Tools
 
-<img align="left" alt="vscode" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/visual-studio-code.svg"/>
-<img align="left" alt="powershell" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/powershell.svg"/>
-<img align="left" alt="ubuntu" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/ubuntu.svg"/>
-<img align="left" alt="git" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/git.svg"/>
-<img align="left" alt="GitHub" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/github.svg"/>
-<img align="left" alt="npm" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/npm.svg"/>
-<img align="left" alt="yarn" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/yarn.svg"/>
-<img align="webpack" alt="yarn" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/webpack.svg"/>
-  
-  
-  
+<img align="left" alt="vscode" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/visual-studio-code.svg"/>
+<img align="left" alt="powershell" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/powershell.svg"/>
+<img align="left" alt="ubuntu" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/ubuntu.svg"/>
+<img align="left" alt="git" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/git.svg"/>
+<img align="left" alt="GitHub" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/github.svg"/>
+<img align="left" alt="yarn" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/yarn.svg"/>
+<img align="webpack" alt="yarn" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/webpack.svg"/>
 </br>
 
 ### Tech Stack
 
-<img align="left" alt="c" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
+<img align="left" alt="cpp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 <img align="left" alt="html" width="22px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
 <img align="left" alt="css" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
