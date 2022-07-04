@@ -14,41 +14,41 @@
 </br>
 
 ### Connect with me:
-
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/github.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="stackoverflow | Stackoverflow" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/stackoverflow.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="stackoverflow | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="linkedin | Linkedin" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/LinkedIn.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://raw.githubusercontent.com/dileswarkhilar/dileswarkhilar/4f5b3519aa1644ebfb37f26caaa601fdfdcc16b1/images/LinkedIn.svg" />
 <a/>
 
-<a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/twitter.svg" />
-</a>
+<a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
+<a ><img align="left" alt="facebooks | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-<a ><img align="left" alt="facebooks | Facebook" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/facebook.svg" /></a>
-
-<a href="https://www.instagram.com/dileswarkhilar/" target="_blank" rel="noreferrer"><img align="left" alt="instagram | Instagram" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/instagram.svg" /></a>
+<a href="https://www.instagram.com/dileswarkhilar/" target="_blank" rel="noreferrer"><img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </br>
 
 ### Coding Profile
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="hackerearth | Hackerearth" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/hackerearth.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="hackerrank | Hackerrank" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/hackerrank.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="leetcode | Leetcode" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/leetcode.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/geeksforgeeks.svg" />
+<a/>
+
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codechef | Codechef" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codechef.svg" />
 <a/>
 
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codeforces | Codeforces" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codeforces.svg" />
 <a/>
 
 
@@ -60,11 +60,17 @@
 
 ### Tools
 
-<img align="left" alt="vscode" width="22px" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
-<img align="left" alt="git" width="22px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img align="left" alt="git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"/>
-<img align="left" alt="git" width="22px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png"/>
-<img align="left" alt="git" width="22px" src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg"/>
+<img align="left" alt="vscode" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/visual-studio-code.svg"/>
+<img align="left" alt="powershell" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/powershell.svg"/>
+<img align="left" alt="ubuntu" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/ubuntu.svg"/>
+<img align="left" alt="git" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/git.svg"/>
+<img align="left" alt="GitHub" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/github.svg"/>
+<img align="left" alt="npm" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/npm.svg"/>
+<img align="left" alt="yarn" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/yarn.svg"/>
+<img align="webpack" alt="yarn" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/webpack.svg"/>
+  
+  
+  
 </br>
 
 ### Tech Stack
