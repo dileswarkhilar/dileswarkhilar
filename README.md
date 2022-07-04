@@ -46,7 +46,6 @@
 <a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codechef | Codechef" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codechef.svg" />
 <a/>
 
-
 <a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="codeforces | Codeforces" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/coding%20profile/codeforces.svg" />
 <a/>
 </br>
@@ -59,7 +58,6 @@
 <img align="left" alt="GitHub" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/github.svg"/>
 <img align="left" alt="yarn" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/yarn.svg"/>
 <img align="webpack" alt="yarn" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/webpack.svg"/>
-
 </br>
 
 ### Tech Stack
@@ -81,7 +79,7 @@
 <img align="left" alt="gradle" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/gradle.svg"/>
 <img align="left" alt="firebase" width="25px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/techstack%20color%20svg/firebase.svg"/>
 </br>
-</br>
+
 
 ### Tech Stat
 
@@ -89,17 +87,10 @@
 
 ### Profile Stat
 
-</br>
-</br>
-
 <a href="http://www.github.com/dileswarkhilar"><img src="https://github-readme-stats.vercel.app/api?username=dileswarkhilar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="patelaryan7751's GitHub stats" /></a>
-
-</br>
 </br>
 
 <a  href="http://www.github.com/dileswarkhilar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dileswarkhilar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-</br>
 </br>
 
 <a href="http://www.github.com/dileswarkhilar"><img src="https://activity-graph.herokuapp.com/graph?username=dileswarkhilar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
