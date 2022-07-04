@@ -14,20 +14,23 @@
 </br>
 
 ### Connect with me:
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/github.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="stackoverflow | Stackoverflow" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/stackoverflow.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://raw.githubusercontent.com/dileswarkhilar/dileswarkhilar/4f5b3519aa1644ebfb37f26caaa601fdfdcc16b1/images/LinkedIn.svg" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="linkedin | Linkedin" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/LinkedIn.svg" />
 <a/>
 
-<a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/twitter.svg" />
+</a>
 
-<a ><img align="left" alt="facebooks | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-<a href="https://www.instagram.com/dileswarkhilar/" target="_blank" rel="noreferrer"><img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a ><img align="left" alt="facebooks | Facebook" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/facebook.svg" /></a>
+
+<a href="https://www.instagram.com/dileswarkhilar/" target="_blank" rel="noreferrer"><img align="left" alt="instagram | Instagram" width="22px" src="https://github.com/dileswarkhilar/dileswarkhilar/blob/main/images/social/instagram.svg" /></a>
 </br>
 
 ### Coding Profile
