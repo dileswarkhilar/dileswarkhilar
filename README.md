@@ -20,7 +20,7 @@
 <a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
 <a/>
 
-<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://iconape.com/wp-content/files/yd/367773/png/367773.png" />
+<a href="https://github.com/dileswarkhilar" target="_blank" rel="noreferrer"><img align="left" alt="github | Github" width="22px" src="https://raw.githubusercontent.com/dileswarkhilar/dileswarkhilar/4f5b3519aa1644ebfb37f26caaa601fdfdcc16b1/images/LinkedIn.svg" />
 <a/>
 
 <a href="https://twitter.com/iamdileswar" target="_blank" rel="noreferrer" ><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
